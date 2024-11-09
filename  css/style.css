@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* -----------------------------------
-  reset setteing
+  reset setting
 --------------------------------------*/
 * {
     margin: 0;
@@ -26,7 +26,7 @@ img {
 }
 
 /* -----------------------------------
-  screen setteing
+  screen setting
 --------------------------------------*/
 .container {
     max-width: 1000px;
@@ -40,7 +40,7 @@ img {
 }
 
 /* -----------------------------------
-  header setteing
+  header seteing
 --------------------------------------*/
 h1 {
     font-weight: normal;
@@ -48,14 +48,14 @@ h1 {
 }
 
 /* -----------------------------------
-  mainvisual setteing
+  mainvisual setting
 --------------------------------------*/
 .mainvisual img {
     margin-bottom: 50px;
 }
 
 /* -----------------------------------
-  index,detail contents setteing
+  index,detail contents setting
 --------------------------------------*/
 .index,
 .detail-contents {
@@ -65,7 +65,7 @@ h1 {
 }
 
 /* -----------------------------------
-  index setteing
+  index setteng
 --------------------------------------*/
 .index h2 {
     font-weight: normal;
@@ -87,7 +87,7 @@ h1 {
 }
 
 /* -----------------------------------
-  ul setteing
+  ul setting
 --------------------------------------*/
 ul {
     display: flex;
@@ -101,7 +101,7 @@ ul>li {
 }
 
 /* -----------------------------------
-  detail setteing
+  detail setting
 --------------------------------------*/
 .section-title {
     text-align: center;
@@ -151,7 +151,7 @@ dd {
 }
 
 /* -----------------------------------
-  footer setteing
+  footer setting
 --------------------------------------*/
 .footer p {
     text-align: center;
@@ -186,7 +186,7 @@ dd {
     }
 
     /* -----------------------------------
-  detail setteing
+  detail setting
 --------------------------------------*/
     .detail-contents {
         display: block;
